@@ -1,5 +1,8 @@
 package com;
 
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
 /**
  * Copyright (C), 2020
  * FileName: HelloController
@@ -9,4 +12,11 @@ package com;
  * Description:
  */
 public class HelloController {
+
+    @RequestMapping("/hello")
+    @ResponseBody
+    public String hello() {
+        return "Hello World!";
+    }
+
 }
