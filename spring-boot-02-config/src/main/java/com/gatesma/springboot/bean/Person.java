@@ -33,7 +33,7 @@ import java.util.Map;
 
 @Component
 @ConfigurationProperties(prefix = "person")
-@PropertySource(value = {"classpath:person.properties"})
+//@PropertySource(value = {"classpath:person.properties"})
 //@Validated
 public class Person {
 

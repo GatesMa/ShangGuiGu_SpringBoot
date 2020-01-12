@@ -1,16 +1,34 @@
-#server:
-#  port: 8081
+server:
+  port: 8081
+spring:
+  profiles:
+    active: prod
+---
 
-#person:
-#  age: 18
-#  boss: false
-#  birth: 2020/1/1
-#  maps: {k1: v1, k2: 12}
-#  lists:
-#    - Andrew
-#    - James
-#    - Wade
-#  Dog:
-#    name: xiaogou
-#    age: 2
-#  last-name: marlon
+server:
+  port: 8083
+spring:
+  profiles: dev
+---
+
+server:
+  port: 8084
+spring:
+  profiles: prod
+
+---
+
+
+person:
+  age: 18
+  boss: false
+  birth: 2020/1/1
+  maps: {k1: v1, k2: 12}
+  lists:
+    - Andrew
+    - James
+    - Wade
+  Dog:
+    name: xiaogou
+    age: 2
+  last-name: marlon
