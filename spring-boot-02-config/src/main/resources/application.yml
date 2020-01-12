@@ -1,2 +1,16 @@
-server:
-  port: 8081
+#server:
+#  port: 8081
+
+#person:
+#  age: 18
+#  boss: false
+#  birth: 2020/1/1
+#  maps: {k1: v1, k2: 12}
+#  lists:
+#    - Andrew
+#    - James
+#    - Wade
+#  Dog:
+#    name: xiaogou
+#    age: 2
+#  last-name: marlon
