@@ -1,0 +1,112 @@
+2020-01-12 16:15:12.429  INFO 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9376 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 16:15:12.432 DEBUG 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 16:15:12.432  INFO 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2020-01-12 16:15:13.796  INFO 9376 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 16:15:14.068  INFO 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 2.145 seconds (JVM running for 3.237)
+2020-01-12 16:15:14.421 TRACE 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : 这是trace日志
+2020-01-12 16:15:14.421 DEBUG 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : debug日志
+2020-01-12 16:15:14.421  INFO 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : info日志
+2020-01-12 16:15:14.421  WARN 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : warn日志
+2020-01-12 16:15:14.422 ERROR 9376 --- [main] .g.s.SpringBoot03LoggingApplicationTests : error日志
+2020-01-12 16:15:14.440  INFO 9376 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9414 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-01-12 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Started SpringBoot03LoggingApplicationTests in 2.229 seconds (JVM running for 3.291)
+2020-01-12 === [main] === TRACE === c.g.springboot.SpringBoot03LoggingApplicationTests ==== 这是trace日志
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== debug日志
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== info日志
+2020-01-12 === [main] === WARN  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== warn日志
+2020-01-12 === [main] === ERROR === c.g.springboot.SpringBoot03LoggingApplicationTests ==== error日志
+2020-01-12 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplication ==== Starting SpringBoot03LoggingApplication on Mac-Marlon.local with PID 9498 (/Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging/target/classes started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplication ==== Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplication ==== No active profile set, falling back to default profiles: default
+2020-01-12 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer ==== Tomcat initialized with port(s): 8080 (http)
+2020-01-12 === [main] === INFO  === org.apache.catalina.core.StandardService ==== Starting service [Tomcat]
+2020-01-12 === [main] === INFO  === org.apache.catalina.core.StandardEngine ==== Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-12 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] ==== Initializing Spring embedded WebApplicationContext
+2020-01-12 === [main] === INFO  === org.springframework.web.context.ContextLoader ==== Root WebApplicationContext: initialization completed in 828 ms
+2020-01-12 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer ==== Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplication ==== Started SpringBoot03LoggingApplication in 1.49 seconds (JVM running for 2.322)
+2020-01-12 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9510 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-01-12 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Started SpringBoot03LoggingApplicationTests in 2.017 seconds (JVM running for 3.275)
+2020-01-12 === [main] === TRACE === c.g.springboot.SpringBoot03LoggingApplicationTests ==== 这是trace日志
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== debug日志
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== info日志
+2020-01-12 === [main] === WARN  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== warn日志
+2020-01-12 === [main] === ERROR === c.g.springboot.SpringBoot03LoggingApplicationTests ==== error日志
+2020-01-12 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 16:27:30.549  INFO 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9526 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 16:27:30.550 DEBUG 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 16:27:30.551  INFO 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : No active profile set, falling back to default profiles: default
+2020-01-12 16:27:31.911  INFO 9526 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 16:27:32.145  INFO 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : Started SpringBoot03LoggingApplicationTests in 2.112 seconds (JVM running for 3.281)
+2020-01-12 16:27:32.581 TRACE 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : 这是trace日志
+2020-01-12 16:27:32.582 DEBUG 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : debug日志
+2020-01-12 16:27:32.582  INFO 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : info日志
+2020-01-12 16:27:32.582  WARN 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : warn日志
+2020-01-12 16:27:32.582 ERROR 9526 --- [main] .g.s.SpringBoot03LoggingApplicationTests : error日志
+2020-01-12 16:27:32.600  INFO 9526 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9553 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-01-12 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Started SpringBoot03LoggingApplicationTests in 2.181 seconds (JVM running for 3.347)
+2020-01-12 === [main] === TRACE === c.g.springboot.SpringBoot03LoggingApplicationTests ==== 这是trace日志
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== debug日志
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== info日志
+2020-01-12 === [main] === WARN  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== warn日志
+2020-01-12 === [main] === ERROR === c.g.springboot.SpringBoot03LoggingApplicationTests ==== error日志
+2020-01-12 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplication ==== Starting SpringBoot03LoggingApplication on Mac-Marlon.local with PID 9570 (/Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging/target/classes started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplication ==== Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplication ==== No active profile set, falling back to default profiles: default
+2020-01-12 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer ==== Tomcat initialized with port(s): 8080 (http)
+2020-01-12 === [main] === INFO  === org.apache.catalina.core.StandardService ==== Starting service [Tomcat]
+2020-01-12 === [main] === INFO  === org.apache.catalina.core.StandardEngine ==== Starting Servlet engine: [Apache Tomcat/9.0.29]
+2020-01-12 === [main] === INFO  === o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] ==== Initializing Spring embedded WebApplicationContext
+2020-01-12 === [main] === INFO  === org.springframework.web.context.ContextLoader ==== Root WebApplicationContext: initialization completed in 702 ms
+2020-01-12 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === o.s.boot.web.embedded.tomcat.TomcatWebServer ==== Tomcat started on port(s): 8080 (http) with context path ''
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplication ==== Started SpringBoot03LoggingApplication in 1.258 seconds (JVM running for 1.924)
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9590 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-01-12 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Started SpringBoot03LoggingApplicationTests in 2.427 seconds (JVM running for 3.513)
+2020-01-12 === [main] === TRACE === c.g.springboot.SpringBoot03LoggingApplicationTests ==== 这是trace日志
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== debug日志
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== info日志
+2020-01-12 === [main] === WARN  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== warn日志
+2020-01-12 === [main] === ERROR === c.g.springboot.SpringBoot03LoggingApplicationTests ==== error日志
+2020-01-12 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9615 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-01-12 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Started SpringBoot03LoggingApplicationTests in 1.605 seconds (JVM running for 2.541)
+2020-01-12 === [main] === TRACE === c.g.springboot.SpringBoot03LoggingApplicationTests ==== 这是trace日志
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== debug日志
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== info日志
+2020-01-12 === [main] === WARN  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== warn日志
+2020-01-12 === [main] === ERROR === c.g.springboot.SpringBoot03LoggingApplicationTests ==== error日志
+2020-01-12 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9643 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== No active profile set, falling back to default profiles: default
+2020-01-12 === [main] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Initializing ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== Started SpringBoot03LoggingApplicationTests in 1.761 seconds (JVM running for 2.694)
+2020-01-12 === [main] === TRACE === c.g.springboot.SpringBoot03LoggingApplicationTests ==== 这是trace日志
+2020-01-12 === [main] === DEBUG === c.g.springboot.SpringBoot03LoggingApplicationTests ==== debug日志
+2020-01-12 === [main] === INFO  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== info日志
+2020-01-12 === [main] === WARN  === c.g.springboot.SpringBoot03LoggingApplicationTests ==== warn日志
+2020-01-12 === [main] === ERROR === c.g.springboot.SpringBoot03LoggingApplicationTests ==== error日志
+2020-01-12 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'
+2020-01-12 === [SpringContextShutdownHook] === INFO  === o.s.scheduling.concurrent.ThreadPoolTaskExecutor ==== Shutting down ExecutorService 'applicationTaskExecutor'

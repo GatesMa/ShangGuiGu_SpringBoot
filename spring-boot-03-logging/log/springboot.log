@@ -1,0 +1,18 @@
+2020-01-12 16:46:23.459 [ main ] - [ INFO  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 55 ] - Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9787 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 16:46:23.461 [ main ] - [ DEBUG ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 56 ] - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 16:46:23.462 [ main ] - [ INFO  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-01-12 16:46:24.740 [ main ] - [ INFO  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 61 ] - Started SpringBoot03LoggingApplicationTests in 1.662 seconds (JVM running for 2.606)
+2020-01-12 16:46:25.110 [ main ] - [ TRACE ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 21 ] - 这是trace日志
+2020-01-12 16:46:25.111 [ main ] - [ DEBUG ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 22 ] - debug日志
+2020-01-12 16:46:25.111 [ main ] - [ INFO  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 24 ] - info日志
+2020-01-12 16:46:25.111 [ main ] - [ WARN  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 25 ] - warn日志
+2020-01-12 16:46:25.112 [ main ] - [ ERROR ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 26 ] - error日志
+2020-01-12 16:47:06.074 [ main ] - [ INFO  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 55 ] - Starting SpringBoot03LoggingApplicationTests on Mac-Marlon.local with PID 9802 (started by gatesma in /Users/gatesma/IdeaProjects/ShangGuiGu_SpringBoot/spring-boot-03-logging)
+2020-01-12 16:47:06.076 [ main ] - [ DEBUG ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 56 ] - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-01-12 16:47:06.077 [ main ] - [ INFO  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 651 ] - No active profile set, falling back to default profiles: default
+2020-01-12 16:47:07.379 [ main ] - [ INFO  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 61 ] - Started SpringBoot03LoggingApplicationTests in 1.841 seconds (JVM running for 2.768)
+2020-01-12 16:47:07.676 [ main ] - [ TRACE ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 21 ] - 这是trace日志
+2020-01-12 16:47:07.677 [ main ] - [ DEBUG ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 22 ] - debug日志
+2020-01-12 16:47:07.678 [ main ] - [ INFO  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 24 ] - info日志
+2020-01-12 16:47:07.678 [ main ] - [ WARN  ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 25 ] - warn日志
+2020-01-12 16:47:07.678 [ main ] - [ ERROR ] [ c.g.springboot.SpringBoot03LoggingApplicationTests : 26 ] - error日志
