@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.gatesma</groupId>
-    <artifactId>spring-boot-06-data-jdbc</artifactId>
+    <artifactId>spring-boot-06-data-mybatis</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-06-data-jdbc</name>
+    <name>spring-boot-06-data-mybatis</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
@@ -27,14 +27,20 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.mybatis.spring.boot</groupId>
+            <artifactId>mybatis-spring-boot-starter</artifactId>
+            <version>2.1.1</version>
+        </dependency>
 
-        <!--引入druid数据源-->
+        <!--引入druid-->
         <!-- https://mvnrepository.com/artifact/com.alibaba/druid -->
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>druid</artifactId>
             <version>1.1.8</version>
         </dependency>
+
 
         <dependency>
             <groupId>mysql</groupId>
